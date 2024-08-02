@@ -1,0 +1,15 @@
+/Users/antorpaul/RiderProjects/be-interview/bin/Debug/net7.0/be-interview
+/Users/antorpaul/RiderProjects/be-interview/bin/Debug/net7.0/be-interview.deps.json
+/Users/antorpaul/RiderProjects/be-interview/bin/Debug/net7.0/be-interview.runtimeconfig.json
+/Users/antorpaul/RiderProjects/be-interview/bin/Debug/net7.0/be-interview.dll
+/Users/antorpaul/RiderProjects/be-interview/bin/Debug/net7.0/be-interview.pdb
+/Users/antorpaul/RiderProjects/be-interview/obj/Debug/net7.0/be-interview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antorpaul/RiderProjects/be-interview/obj/Debug/net7.0/be-interview.AssemblyInfoInputs.cache
+/Users/antorpaul/RiderProjects/be-interview/obj/Debug/net7.0/be-interview.AssemblyInfo.cs
+/Users/antorpaul/RiderProjects/be-interview/obj/Debug/net7.0/be-interview.csproj.CoreCompileInputs.cache
+/Users/antorpaul/RiderProjects/be-interview/obj/Debug/net7.0/be-interview.sourcelink.json
+/Users/antorpaul/RiderProjects/be-interview/obj/Debug/net7.0/be-interview.dll
+/Users/antorpaul/RiderProjects/be-interview/obj/Debug/net7.0/refint/be-interview.dll
+/Users/antorpaul/RiderProjects/be-interview/obj/Debug/net7.0/be-interview.pdb
+/Users/antorpaul/RiderProjects/be-interview/obj/Debug/net7.0/be-interview.genruntimeconfig.cache
+/Users/antorpaul/RiderProjects/be-interview/obj/Debug/net7.0/ref/be-interview.dll
